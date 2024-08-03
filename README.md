@@ -38,7 +38,7 @@ Moving from visual wireframes in Figma to real world app is one of my skills
 #### Tools:
 ![DockerDesktop](https://img.shields.io/badge/Docker_Desktop-white?logo=docker)
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-white?logo=androidstudio)
-![PHPStorm](https://img.shields.io/badge/PHPStorm-white?logo=phpstorm)
+![PHPStorm](https://img.shields.io/badge/PHPStorm-blue?logo=phpstorm)
 ![FTP](https://img.shields.io/badge/FTP-blue?logo=ftp)
 ![SSH](https://img.shields.io/badge/SSH-blue?logo=ssh)
 
