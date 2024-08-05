@@ -18,55 +18,56 @@
 
 ### Web Dev:
 ![symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)
-![php](https://img.shields.io/badge/PHP-white?logo=php)
-![rest](https://img.shields.io/badge/REST_APIS-white?logo=restapi)
-![graphql](https://img.shields.io/badge/GraphQL-e10098?logo=graphql)
-![react](https://img.shields.io/badge/React-white?logo=react)
-![figma](https://img.shields.io/badge/Figma-white?logo=figma)
-![vue](https://img.shields.io/badge/Vue-white?logo=vue.js)
+![php](https://img.shields.io/badge/PHP-black?logo=php)
+![rest](https://img.shields.io/badge/REST_APIS-black?logo=restapi)
+![graphql](https://img.shields.io/badge/GraphQL-black?logo=graphql)
+![react](https://img.shields.io/badge/React-black?logo=react)
+![figma](https://img.shields.io/badge/Figma-black?logo=figma)
+![vue](https://img.shields.io/badge/Vue-black?logo=vue.js)
 ![next](https://img.shields.io/badge/NextJS-black?logo=next.js)
-![redux](https://img.shields.io/badge/Redux-764abc?logo=redux)
-![javascript](https://img.shields.io/badge/Javascript-white?logo=javascript)
-![css3](https://img.shields.io/badge/CSS3-blue?logo=css3)
-![html5](https://img.shields.io/badge/HTML5-white?logo=html5)
-![jquery](https://img.shields.io/badge/jQuery-blue?logo=jquery)
-![webpack](https://img.shields.io/badge/WebPack-white?logo=webpack)
-![npm](https://img.shields.io/badge/NPM-blue?logo=npm)
-![yarn](https://img.shields.io/badge/Yarn-white?logo=yarn)
+![redux](https://img.shields.io/badge/Redux-black?logo=redux)
+![javascript](https://img.shields.io/badge/Javascript-black?logo=javascript)
+![css3](https://img.shields.io/badge/CSS3-black?logo=css3)
+![html5](https://img.shields.io/badge/HTML5-black?logo=html5)
+![bootstrap](https://img.shields.io/badge/Bootstrap-black?logo=bootstrap)
+![jquery](https://img.shields.io/badge/jQuery-black?logo=jquery)
+![webpack](https://img.shields.io/badge/WebPack-black?logo=webpack)
+![npm](https://img.shields.io/badge/NPM-black?logo=npm)
+![yarn](https://img.shields.io/badge/Yarn-black?logo=yarn)
 
 ### Mobile Dev:
-![Redux](https://img.shields.io/badge/redux-764abc?logo=redux)
-![ReactNative](https://img.shields.io/badge/React_Native-white?logo=react)
+![Redux](https://img.shields.io/badge/redux-black?logo=redux)
+![ReactNative](https://img.shields.io/badge/React_Native-black?logo=react)
 
 ### Database & DBMS & ORMs:
-![sql](https://img.shields.io/badge/SQL-white?logo=sql)
+![sql](https://img.shields.io/badge/SQL-black?logo=sql)
 ![sqlite](https://img.shields.io/badge/SQLite-black?logo=sqlite)
-![mysql](https://img.shields.io/badge/MySQL-white?logo=mysql)
-![postgres](https://img.shields.io/badge/Postgres-white?logo=postgresql)
-![mongodb](https://img.shields.io/badge/MongoDB-white?logo=mongoDB)
-![prisma](https://img.shields.io/badge/Prisma-5a67d8?logo=prisma)
-![doctrine](https://img.shields.io/badge/Doctrine-white?logo=doctrine)
+![mysql](https://img.shields.io/badge/MySQL-black?logo=mysql)
+![postgres](https://img.shields.io/badge/Postgres-black?logo=postgresql)
+![mongodb](https://img.shields.io/badge/MongoDB-black?logo=mongoDB)
+![prisma](https://img.shields.io/badge/Prisma-black?logo=prisma)
+![doctrine](https://img.shields.io/badge/Doctrine-black?logo=doctrine)
 
 ### Architectures:
 ![ddd](https://img.shields.io/badge/DDD-white?logo=ddd)
 ![hexagonal](https://img.shields.io/badge/Hexagonal-white?logo=hexagonal)
 
 ### DevOps & CI/CD:
-![docker](https://img.shields.io/badge/Docker-white?logo=docker)
+![docker](https://img.shields.io/badge/Docker-black?logo=docker)
 ![github_actions](https://img.shields.io/badge/Github_Actions-black?logo=github)
 ![bitbucket](https://img.shields.io/badge/Bitbucket_Pipelines-black?logo=bitbucket)
 
 ### Versionning:
-![git](https://img.shields.io/badge/Git-white?logo=git)
-![gitlab](https://img.shields.io/badge/Gitlab-white?logo=gitlab)
+![git](https://img.shields.io/badge/Git-black?logo=git)
+![gitlab](https://img.shields.io/badge/Gitlab-black?logo=gitlab)
 ![github](https://img.shields.io/badge/Github-black?logo=github)
 ![bitbucket](https://img.shields.io/badge/Bitbucket-black?logo=bitbucket)
 
 ### IDEs & Tools:
-![DockerDesktop](https://img.shields.io/badge/Docker_Desktop-white?logo=docker)
-![AndroidStudio](https://img.shields.io/badge/Android_Studio-white?logo=androidstudio)
-![PHPStorm](https://img.shields.io/badge/PHPStorm-blue?logo=phpstorm)
-![FTP](https://img.shields.io/badge/FTP-white?logo=ftp)
-![SSH](https://img.shields.io/badge/SSH-white?logo=ssh)
+![DockerDesktop](https://img.shields.io/badge/Docker_Desktop-black?logo=docker)
+![AndroidStudio](https://img.shields.io/badge/Android_Studio-black?logo=androidstudio)
+![PHPStorm](https://img.shields.io/badge/PHPStorm-black?logo=phpstorm)
+![FTP](https://img.shields.io/badge/FTP-black?logo=ftp)
+![SSH](https://img.shields.io/badge/SSH-black?logo=ssh)
 
 
