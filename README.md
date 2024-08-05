@@ -1,9 +1,10 @@
 ## Hi there, I'm Mustapha 👋
 [![Banner](https://github.com/mustapha-ghlissi/mustapha-ghlissi/blob/ac52bd395968b543254c7ba7b2b63e4ea3eb4d4a/banner.jpg "Banner")](https://github.com/mustapha-ghlissi/mustapha-ghlissi/blob/ac52bd395968b543254c7ba7b2b63e4ea3eb4d4a/banner.jpg "Banner")
 
-[![linkedIn](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin)](https://www.linkedin.com/in/mustapha-ghlissi)
-[![gmail](https://img.shields.io/badge/Gmail-white?logo=Gmail)](mailto://ghlissi.mustapha@gmail.com)
-[![stackoverflow](https://img.shields.io/badge/Stackoverflow-white?logo=Stackoverflow)](https://stackoverflow.com/users/4957086/mustapha-ghlissi)
+[![linkedIn](https://img.shields.io/badge/Linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/mustapha-ghlissi)
+[![whatsapp](https://img.shields.io/badge/WhatsApp-white?logo=whatsapp)](https://wa.me/21693840804)
+[![gmail](https://img.shields.io/badge/Gmail-white?logo=gmail)](mailto://ghlissi.mustapha@gmail.com)
+[![stackoverflow](https://img.shields.io/badge/Stackoverflow-white?logo=stackoverflow)](https://stackoverflow.com/users/4957086/mustapha-ghlissi)
 
 ### About Me
 - I'm fullstack developer (`PHP`, `Vanilla JS`, `React`, `React Native`) for +7 years spent in developing web and mobile solutions. <br/>
