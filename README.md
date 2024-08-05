@@ -19,7 +19,7 @@
 ### Web Dev:
 ![symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)
 ![php](https://img.shields.io/badge/PHP-white?logo=php)
-![rest](https://img.shields.io/badge/REST-white?logo=restapi)
+![rest](https://img.shields.io/badge/REST_APIS-white?logo=restapi)
 ![graphql](https://img.shields.io/badge/GraphQL-e10098?logo=graphql)
 ![react](https://img.shields.io/badge/React-white?logo=react)
 ![figma](https://img.shields.io/badge/Figma-white?logo=figma)
