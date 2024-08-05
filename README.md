@@ -1,9 +1,8 @@
 ## Hi there, I'm Mustapha 👋
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmustapha-ghlissi
-)](https://www.linkedin.com%2Fin%2Fmustapha-ghlissi)
-[![Gmail](https://img.shields.io/badge/Gmail-white?logo=Gmail)](mailto://ghlissi.mustapha@gmail.com)
-
+[![linkedIn](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin)](https://www.linkedin.com%2Fin%2Fmustapha-ghlissi)
+[![gmail](https://img.shields.io/badge/Gmail-white?logo=Gmail)](mailto://ghlissi.mustapha@gmail.com)
+[![stackoverflow](https://img.shields.io/badge/Stackoverflow-white?logo=Stackoverflow)](https://stackoverflow.com/users/4957086/mustapha-ghlissi)
 
 ### About Me
 - I'm fullstack developer (`PHP`, `Vanilla JS`, `React`, `React Native`) for +7 years spent in developing web and mobile solutions. <br/>
