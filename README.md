@@ -1,6 +1,6 @@
 ## Hi there, I'm Mustapha 👋
 
-[![linkedIn](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin)](https://www.linkedin.com%2Fin%2Fmustapha-ghlissi)
+[![linkedIn](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin)](https://www.linkedin.com/in/mustapha-ghlissi)
 [![gmail](https://img.shields.io/badge/Gmail-white?logo=Gmail)](mailto://ghlissi.mustapha@gmail.com)
 [![stackoverflow](https://img.shields.io/badge/Stackoverflow-white?logo=Stackoverflow)](https://stackoverflow.com/users/4957086/mustapha-ghlissi)
 
