@@ -4,7 +4,7 @@
 [![linkedIn](https://img.shields.io/badge/Linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/mustapha-ghlissi)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-white?logo=whatsapp)](https://wa.me/21693840804)
 [![gmail](https://img.shields.io/badge/Gmail-white?logo=gmail)](mailto://ghlissi.mustapha@gmail.com)
-[![stackoverflow](https://img.shields.io/badge/Stackoverflow-white?logo=stackoverflow)](https://stackoverflow.com/users/4957086/mustapha-ghlissi)
+[![stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/4957086?logo=stackoverflow)](https://stackoverflow.com/users/4957086/mustapha-ghlissi)
 
 ## About Me
 - I'm fullstack developer (`PHP`, `Vanilla JS`, `React`, `NextJS` `Redux`, `React Native`) for +7 years spent in developing web and mobile solutions. <br/>
@@ -19,6 +19,8 @@
 ### Web Dev:
 ![symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)
 ![php](https://img.shields.io/badge/PHP-white?logo=php)
+![rest](https://img.shields.io/badge/REST-white?logo=restapi)
+![graphql](https://img.shields.io/badge/GraphQL-e10098?logo=graphql)
 ![react](https://img.shields.io/badge/React-white?logo=react)
 ![figma](https://img.shields.io/badge/Figma-white?logo=figma)
 ![vue](https://img.shields.io/badge/Vue-white?logo=vue.js)
@@ -44,6 +46,10 @@
 ![mongodb](https://img.shields.io/badge/MongoDB-white?logo=mongoDB)
 ![prisma](https://img.shields.io/badge/Prisma-5a67d8?logo=prisma)
 ![doctrine](https://img.shields.io/badge/Doctrine-white?logo=doctrine)
+
+### Architectures:
+![ddd](https://img.shields.io/badge/DDD-white?logo=ddd)
+![hexagonal](https://img.shields.io/badge/Hexagonal-white?logo=hexagonal)
 
 ### DevOps & CI/CD:
 ![docker](https://img.shields.io/badge/Docker-white?logo=docker)
