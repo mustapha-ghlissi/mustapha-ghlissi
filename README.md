@@ -28,6 +28,8 @@
 ![redux](https://img.shields.io/badge/Redux-black?logo=redux)
 ![javascript](https://img.shields.io/badge/Javascript-black?logo=javascript)
 ![css3](https://img.shields.io/badge/CSS3-black?logo=css3)
+![bem](https://img.shields.io/badge/BEM-black?logo=bem)
+![sass](https://img.shields.io/badge/SASS_/_SCSS-black?logo=sass)
 ![html5](https://img.shields.io/badge/HTML5-black?logo=html5)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-black?logo=bootstrap)
 ![jquery](https://img.shields.io/badge/jQuery-black?logo=jquery)
@@ -36,7 +38,7 @@
 ![yarn](https://img.shields.io/badge/Yarn-black?logo=yarn)
 
 ### Mobile Dev:
-![Redux](https://img.shields.io/badge/redux-black?logo=redux)
+![Redux](https://img.shields.io/badge/Redux-black?logo=redux)
 ![ReactNative](https://img.shields.io/badge/React_Native-black?logo=react)
 
 ### Database & DBMS & ORMs:
