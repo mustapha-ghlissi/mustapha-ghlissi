@@ -49,8 +49,8 @@
 ![doctrine](https://img.shields.io/badge/Doctrine-black?logo=doctrine)
 
 ### Architectures:
-![ddd](https://img.shields.io/badge/DDD-white?logo=ddd)
-![hexagonal](https://img.shields.io/badge/Hexagonal-white?logo=hexagonal)
+![ddd](https://img.shields.io/badge/DDD-black?logo=ddd)
+![hexagonal](https://img.shields.io/badge/Hexagonal-black?logo=hexagonal)
 
 ### DevOps & CI/CD:
 ![docker](https://img.shields.io/badge/Docker-black?logo=docker)
