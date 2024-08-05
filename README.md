@@ -1,4 +1,5 @@
 ## Hi there, I'm Mustapha 👋
+[![Banner](https://github.com/mustapha-ghlissi/mustapha-ghlissi/blob/ac52bd395968b543254c7ba7b2b63e4ea3eb4d4a/banner.jpg "Banner")](https://github.com/mustapha-ghlissi/mustapha-ghlissi/blob/ac52bd395968b543254c7ba7b2b63e4ea3eb4d4a/banner.jpg "Banner")
 
 [![linkedIn](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin)](https://www.linkedin.com/in/mustapha-ghlissi)
 [![gmail](https://img.shields.io/badge/Gmail-white?logo=Gmail)](mailto://ghlissi.mustapha@gmail.com)
