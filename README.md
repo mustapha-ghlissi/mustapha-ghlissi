@@ -20,6 +20,7 @@
 ![symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)
 ![php](https://img.shields.io/badge/PHP-white?logo=php)
 ![react](https://img.shields.io/badge/React-white?logo=react)
+![figma](https://img.shields.io/badge/Figma-white?logo=figma)
 ![vue](https://img.shields.io/badge/Vue-white?logo=vue.js)
 ![next](https://img.shields.io/badge/NextJS-black?logo=next.js)
 ![redux](https://img.shields.io/badge/Redux-764abc?logo=redux)
