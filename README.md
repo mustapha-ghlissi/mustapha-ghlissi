@@ -7,7 +7,7 @@
 [![stackoverflow](https://img.shields.io/badge/Stackoverflow-white?logo=stackoverflow)](https://stackoverflow.com/users/4957086/mustapha-ghlissi)
 
 ## About Me
-- I'm fullstack developer (`PHP`, `Vanilla JS`, `React`, `React Native`) for +7 years spent in developing web and mobile solutions. <br/>
+- I'm fullstack developer (`PHP`, `Vanilla JS`, `React`, `NextJS` `Redux`, `React Native`) for +7 years spent in developing web and mobile solutions. <br/>
 - I'm currently learning `Python + Django` and acquiring advanced `DevOps` skills. <br />
 - Actually I'm making special things such as Creating `React Native` libraries and I'm sharing it via the famous manager called `NPM`. <br/>
 - Moving from visual wireframes in Figma to real world app is one of my skills.<br />
