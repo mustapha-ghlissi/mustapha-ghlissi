@@ -5,6 +5,7 @@
 [![whatsapp](https://img.shields.io/badge/WhatsApp-white?logo=whatsapp)](https://wa.me/21693840804)
 [![gmail](https://img.shields.io/badge/Gmail-white?logo=gmail)](mailto://ghlissi.mustapha@gmail.com)
 [![stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/4957086?logo=stackoverflow)](https://stackoverflow.com/users/4957086/mustapha-ghlissi)
+[![upwork](https://img.shields.io/badge/Upwork-white?logo=upwork)](https://www.upwork.com/freelancers/~01cf6a04a261386548)
 
 ## About Me
 - I'm fullstack developer (`PHP`, `Vanilla JS`, `React`, `NextJS` `Redux`, `React Native`) for +7 years spent in developing web and mobile solutions. <br/>
