@@ -9,7 +9,7 @@
 
 ## About Me
 - I'm fullstack developer (`PHP`, `Vanilla JS`, `React`, `NextJS` `Redux`, `React Native`) for +7 years spent in developing web and mobile solutions. <br/>
-- I'm currently learning `Python + Django` and acquiring advanced `DevOps` skills. <br />
+- I'm currently learning `Python + Django` and in the meanwhile I'm acquiring some advanced `DevOps` skills. <br />
 - Actually I'm making special things such as Creating `React Native` libraries shared in `NPM`. <br/>
 - Moving from visual wireframes in Figma to real world app is one of my skills.<br />
 - Ask me about React / React Native, I can help !<br/>
