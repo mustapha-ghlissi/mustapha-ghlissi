@@ -8,7 +8,7 @@
 [![upwork](https://img.shields.io/badge/Upwork-white?logo=upwork)](https://www.upwork.com/freelancers/mustaphaghlissi?mp_source=share)
 
 ## About Me
-- I'm fullstack developer (`PHP`, `Vanilla JS`, `React`, `NextJS` `Redux`, `React Native`) for +7 years spent in developing web and mobile solutions. <br/>
+- I'm Senior Full-Stack Web & Mobile Developer (`PHP`, `Symfony`, `Vanilla JS`, `React`, `NextJS` `Redux`, `React Native`, `Expo`, `Typescript`) for +8 years spent in developing web and mobile solutions. <br/>
 - I'm currently learning `Python + Django` and in the meanwhile I'm acquiring some advanced `DevOps` skills. <br />
 - Actually I'm making special things such as Creating `React Native` libraries shared in `NPM`. <br/>
 - Moving from visual wireframes in Figma to real world app is one of my skills.<br />
